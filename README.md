@@ -4,7 +4,7 @@ Simple Api with one get and post request
 
 ## Installation
 
-Clone the app: 
+Clone the app: https://github.com/TeddyMuli/Flask-API.git
 
 ``` bash
 pip install flask
